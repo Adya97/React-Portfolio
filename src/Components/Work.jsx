@@ -1,10 +1,10 @@
 import React from 'react'
-import doit from '../Assests/DoIT.jpg'
-import spotify from '../Assests/Spotify.jpg'
-import facerec from '../Assests/facerecog.jpg'
-import instaclone from '../Assests/instaclone.jpg'
-import awsserver from '../Assests/awsserverless.jpg'
-import covid19 from '../Assests/dataanal.jpg'
+import doit from '../Assests/ecommerce.png'
+import spotify from '../Assests/spotify.jpg'
+import facerec from '../Assests/face-recognition.jpg'
+import instaclone from '../Assests/Instagram.jpg'
+import awsserver from '../Assests/AWS-serverless.png'
+import covid19 from '../Assests/covid.jpg'
 
 const Work = () => {
   return (
@@ -23,9 +23,9 @@ const Work = () => {
             <div className='opacity-0 group-hover:opacity-90 bg-[grey]/70 absolute inset-0 flex flex-col justify-normal items-center'>
                 <span className='text-2x1 font-bold text-white tracking-wider'></span>
                 <div className='pt-8 text-center'>
-                    <a href='https://github.com/Adya97/DoIT-Android-MobileApp/tree/doitmain'>
+                    <a href='https://github.com/Adya97/ultimate-ecommerce-project-devops'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>
-                            DOiT Android Application
+                            Ecommerce E2E Devops
                         </button>
                     </a>
                 </div>

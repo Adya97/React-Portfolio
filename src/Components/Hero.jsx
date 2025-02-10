@@ -1,5 +1,5 @@
 import React from 'react'
-import heroimage from '../Assests/ProfilePic.png'
+import heroimage from '../Assests/Adi.jpg'
 import { TypeAnimation } from 'react-type-animation'
 
 const Hero = () => {
@@ -16,9 +16,9 @@ const Hero = () => {
                     </span> <br/>
                     <TypeAnimation
                     sequence={[
-                        "Frontend Dev",
+                        "DevOps Engineer",
                         1000,
-                        "Software Development Test Engineer (SDET)",
+                        "Cloud Engineer",
                         1000,
                     ]}
                     wrapper='span'
@@ -28,11 +28,11 @@ const Hero = () => {
                 </h1>
 
                 <p className='text-white sm:text-lg my-6 lg:text-x1'>
-                    My name is Aditya Nisal and I have 2+ years experience in web development.
+                    My name is Aditya Nisal and I am master student of HTW Berlin. Currently working as a Working Student as DevOps Engineer at M. Asam Gmbh. I am passionate about leveraging cutting-edge technologies to drive innovation in cloud and DevOps solutions.
                 </p>
 
                 <div className='my-8'>
-                    <a href='https://drive.google.com/file/d/1mWa-VQ6IkKC15B96MAKf7ibCVBkJQeTd/view?usp=sharing' className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white'>
+                    <a href='https://drive.google.com/file/d/1mcBBkOjQmuquzIgArYzABVRpkDLPV7Is/view?usp=sharing' className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white'>
                         Download CV
                     </a>
                     <a href='#contact' className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white hover:border-none'>
